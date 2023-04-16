@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from "react";
 import QRCode from "qrcode.react";
 const Qrcode = ({ shortUrl }) => {
   return (
