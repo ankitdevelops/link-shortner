@@ -25,7 +25,7 @@ function App() {
         url: "https://api-ssl.bitly.com/v4/shorten",
         headers: {
           "Content-Type": "application/json",
-          Authorization: "Bearer 154286b109cf1ffdbf7feec8cf751ec24ecd6dd9",
+          Authorization: "Bearer 237d16aa5968cbaeee99cc8d2449de4c8fed6c30",
         },
         data: data,
       };
