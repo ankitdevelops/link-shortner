@@ -17,7 +17,7 @@ function App() {
   useEffect(() => {
     const shortURL = async () => {
       let data = JSON.stringify({
-        long_url: "https://dev.bitly.com/api-reference/#createBitlink",
+        long_url: longUrl,
       });
 
       let config = {
